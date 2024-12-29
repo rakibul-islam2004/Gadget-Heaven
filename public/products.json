@@ -1,0 +1,242 @@
+[
+  {
+    "product_id": 1,
+    "product_title": "Dell XPS 13",
+    "price": 999.99,
+    "in_stock": true,
+    "rating": 4.5,
+    "category": "Laptops",
+    "product_image": "https://i.ibb.co.com/SQ2q3Ng/notebook-xps-13-9345-t-gray-gallery-2.jpg",
+    "description": "High-performance laptop with a sleek 13-inch display and long-lasting battery.",
+    "specifications": [
+      "Intel i7 11th Gen",
+      "16GB RAM",
+      "512GB SSD",
+      "13-inch Full HD Display"
+    ]
+  },
+  {
+    "product_id": 2,
+    "product_title": "iPhone 13 Pro",
+    "price": 1099.99,
+    "in_stock": true,
+    "rating": 4.8,
+    "category": "Phones",
+    "product_image": "https://i.ibb.co.com/CP6LZX1/finishes-1-sierra-blue-2bovafkl4yaa-large.jpg",
+    "description": "Advanced smartphone with triple-camera system and Super Retina XDR display.",
+    "specifications": [
+      "A15 Bionic chip",
+      "6GB RAM",
+      "128GB Storage",
+      "6.1-inch Super Retina XDR"
+    ]
+  },
+  {
+    "product_id": 3,
+    "product_title": "Apple Watch Series 7",
+    "price": 399.99,
+    "in_stock": false,
+    "rating": 4.7,
+    "category": "Smart Watches",
+    "product_image": "https://i.ibb.co.com/d0qf32v/111909-series7-480.png",
+    "description": "Wearable device with advanced health tracking features and larger display.",
+    "specifications": [
+      "OLED display",
+      "GPS and Cellular",
+      "Heart Rate Monitor",
+      "Fall Detection"
+    ]
+  },
+  {
+    "product_id": 4,
+    "product_title": "MacBook Air M2",
+    "price": 1199.99,
+    "in_stock": true,
+    "rating": 4.9,
+    "category": "MacBook",
+    "product_image": "https://i.ibb.co.com/SQ2q3Ng/notebook-xps-13-9345-t-gray-gallery-2.jpg",
+    "description": "Lightweight laptop with powerful M2 chip and stunning Retina display.",
+    "specifications": [
+      "Apple M2 chip",
+      "8GB RAM",
+      "256GB SSD",
+      "13.3-inch Retina Display"
+    ]
+  },
+  {
+    "product_id": 5,
+    "product_title": "Samsung Galaxy S22",
+    "price": 799.99,
+    "in_stock": true,
+    "rating": 4.6,
+    "category": "Phones",
+    "product_image": "https://i.ibb.co.com/tJk3588/Galaxy-S22-5-G-Violet-6458.jpg",
+    "description": "Flagship smartphone with an impressive camera system and high-speed processor.",
+    "specifications": [
+      "Exynos 2200",
+      "8GB RAM",
+      "128GB Storage",
+      "6.1-inch AMOLED"
+    ]
+  },
+  {
+    "product_id": 6,
+    "product_title": "JBL Wireless Headphones",
+    "price": 149.99,
+    "in_stock": false,
+    "rating": 4.4,
+    "category": "Accessories",
+    "product_image": "https://i.ibb.co.com/SRJL9xw/tune-760nc-01-228x228.webp",
+    "description": "Wireless headphones with noise-cancellation and deep bass.",
+    "specifications": [
+      "Bluetooth 5.0",
+      "Active Noise Cancellation",
+      "20 hours battery life",
+      "Built-in Microphone"
+    ]
+  },
+  {
+    "product_id": 7,
+    "product_title": "MacBook Pro 16-inch",
+    "price": 2399.99,
+    "in_stock": true,
+    "rating": 5.0,
+    "category": "MacBook",
+    "product_image": "https://i.ibb.co.com/2nm8yJL/mbp16-spaceblack-select-202410.jpg",
+    "description": "High-performance laptop with a stunning 16-inch Retina display for professionals.",
+    "specifications": [
+      "Apple M1 Pro chip",
+      "16GB RAM",
+      "512GB SSD",
+      "16-inch Retina Display"
+    ]
+  },
+  {
+    "product_id": 8,
+    "product_title": "Apple AirPods Pro",
+    "price": 249.99,
+    "in_stock": true,
+    "rating": 4.8,
+    "category": "Accessories",
+    "product_image": "https://i.ibb.co.com/JQLJvLb/download.jpg",
+    "description": "Noise-canceling wireless earbuds with immersive sound quality.",
+    "specifications": [
+      "Active Noise Cancellation",
+      "Transparency Mode",
+      "Spatial Audio",
+      "Bluetooth Connectivity"
+    ]
+  },
+  {
+    "product_id": 9,
+    "product_title": "Apple iPhone 14",
+    "price": 999.99,
+    "in_stock": true,
+    "rating": 4.7,
+    "category": "Phones",
+    "product_image": "https://i.ibb.co.com/bv2XQKr/iphone-14-model-unselect-gallery-1-202209.webp",
+    "description": "Latest smartphone from Apple with cutting-edge technology.",
+    "specifications": [
+      "A16 Bionic chip",
+      "6GB RAM",
+      "128GB Storage",
+      "6.1-inch Super Retina XDR"
+    ]
+  },
+  {
+    "product_id": 10,
+    "product_title": "Fitbit Charge 5",
+    "price": 149.99,
+    "in_stock": true,
+    "rating": 4.6,
+    "category": "Smart Watches",
+    "product_image": "https://i.ibb.co.com/Y03xg1n/51q7-Fojdic-L-AC-SL1200.jpg",
+    "description": "Advanced fitness tracker with health metrics and GPS.",
+    "specifications": [
+      "AMOLED Display",
+      "Built-in GPS",
+      "Heart Rate Monitor",
+      "Sleep Tracking"
+    ]
+  },
+  {
+    "product_id": 11,
+    "product_title": "Asus ROG Strix G15",
+    "price": 1599.99,
+    "in_stock": true,
+    "rating": 4.8,
+    "category": "Laptops",
+    "product_image": "https://i.ibb.co.com/cXrY9x2/ASUS-Rog-Strix-29.webp",
+    "description": "Powerful gaming laptop with high-refresh-rate display.",
+    "specifications": [
+      "AMD Ryzen 9",
+      "16GB RAM",
+      "1TB SSD",
+      "15.6-inch 300Hz Display"
+    ]
+  },
+  {
+    "product_id": 12,
+    "product_title": "Samsung Galaxy Watch 5",
+    "price": 279.99,
+    "in_stock": true,
+    "rating": 4.7,
+    "category": "Smart Watches",
+    "product_image": "https://i.ibb.co.com/t4GZLZZ/galaxy-watch5-fitness-tracking-face04.webp",
+    "description": "Smartwatch with comprehensive health tracking and app integration.",
+    "specifications": [
+      "Super AMOLED Display",
+      "GPS",
+      "Heart Rate Monitor",
+      "Fall Detection"
+    ]
+  },
+  {
+    "product_id": 13,
+    "product_title": "Huawei MateBook X Pro",
+    "price": 1699.99,
+    "in_stock": true,
+    "rating": 4.6,
+    "category": "Laptops",
+    "product_image": "https://i.ibb.co.com/VTfdDKf/huawei-matebook-x-pro-kv-2x.webp",
+    "description": "Ultra-slim laptop with vibrant display and high performance.",
+    "specifications": [
+      "Intel i7 11th Gen",
+      "16GB RAM",
+      "1TB SSD",
+      "13.9-inch 3K Display"
+    ]
+  },
+  {
+    "product_id": 14,
+    "product_title": "Oculus Quest 2",
+    "price": 299.99,
+    "in_stock": true,
+    "rating": 4.7,
+    "category": "Accessories",
+    "product_image": "https://i.ibb.co.com/Rc5ghz0/download.webp",
+    "description": "Advanced VR headset with immersive gaming experience.",
+    "specifications": [
+      "256GB Storage",
+      "Qualcomm Snapdragon XR2",
+      "High-resolution display",
+      "3D audio"
+    ]
+  },
+  {
+    "product_id": 15,
+    "product_title": "Xiaomi Redmi Note 12",
+    "price": 499.99,
+    "in_stock": true,
+    "rating": 4.5,
+    "category": "Phones",
+    "product_image": "https://i.ibb.co.com/tJk3588/Galaxy-S22-5-G-Violet-6458.jpg",
+    "description": "Affordable smartphone with powerful performance and long-lasting battery.",
+    "specifications": [
+      "MediaTek Dimensity 810",
+      "6GB RAM",
+      "128GB Storage",
+      "6.67-inch FHD+ Display"
+    ]
+  }
+]
